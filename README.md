@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋, I'm Zahra
+💻 Web Developer | 🚀 Building Projects | 🌱 Always Learning
 
-<!--
-**zahra-abbasi0/zahra-abbasi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🔧 Git — Familiar
+🐙 GitHub — Familiar
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🛒 **Awake Shop** — A modern e-commerce website built to practice frontend development, responsive design, and interactive web interfaces.
+  🔗 [Live Demo](https://zahra-abbasi0.github.io/Awake-shop/)
+
+* 🧮 **Calculator** — A functional calculator built with HTML, CSS, and JavaScript.
+  🔗 [Live Demo](https://zahra-abbasi0.github.io/calculator/)
+
+ 📫 Connect With Me
+
+- 🐙 GitHub:(https://github.com/zahra-abbasi0)
