@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=zahra-abbasi0&theme=merko&hide_border=false&show_icons=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=zahra-abbasi0&theme=merko&hide_border=false&show_icons=true&rank_icon=default&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=zahra-abbasi0&theme=merko&hide_border=false)
 
