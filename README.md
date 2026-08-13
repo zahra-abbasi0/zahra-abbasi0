@@ -19,3 +19,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zahra-abbasi0&theme=merko&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-abbasi0&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=zahra-abbasi0&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
