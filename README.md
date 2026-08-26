@@ -1,6 +1,6 @@
-# Hi 👋, I'm Zahra Abbasi ✨
+# Hi 👋, I'm Zahra ✨
 
-💻 **Web Developer** | 🚀 **Building Projects** | 🌱 **Always Learning**
+💻 Web Developer | 🚀 Building Projects | 🌱 Always Learning
 
 ---
 
@@ -19,6 +19,14 @@
 
 <br/>
 
+# 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zahra-abbasi0\&theme=dark\&hide_border=false)](https://git.io/streak-stats)
+
+<br/>
+
+# 🏆 Most Used Languages:
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zahra-abbasi0\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
@@ -29,7 +37,4 @@
 
 ---
 
-✨ **Thanks for visiting my profile!**
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
